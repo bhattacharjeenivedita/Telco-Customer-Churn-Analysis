@@ -27,7 +27,7 @@ The telecom company is experiencing a significant number of customers terminatin
 ## Tools & Libraries
 - **Python**  
 - **Jupyter Notebook**  
-- Libraries: `pandas`,  `matplotlib`, `seaborn`, `scikit-learn`  
+- Libraries: `pandas`, 'numpy',  `matplotlib`, `seaborn`, `scikit-learn`  
 
 ## Key Insights
 - Customer churn is highest among **new users within the first 15 months of joining**.
@@ -45,7 +45,7 @@ The telecom company is experiencing a significant number of customers terminatin
 - XGBoost Classifier
 - Random Forest Classifier
 
-📈 **Best Model:** *(Random Forest with 77% accuracy)*  
+📈 **Best Model:** *(Random Forest with 77% accuracy and RMSE of 0.48)*  
 
 ## Business Recommendations
 - **Enhance onboarding** of new customers and **provide early incentives** to increase retention during first few months.
